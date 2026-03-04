@@ -1,0 +1,5 @@
+11:    100f:	48 85 c0             	test   %rax,%rax
+77:    1106:	48 85 c0             	test   %rax,%rax
+136:    11f5:	84 c0                	test   %al,%al
+182:    12aa:	48 85 c0             	test   %rax,%rax
+198:    12eb:	48 85 c0             	test   %rax,%rax

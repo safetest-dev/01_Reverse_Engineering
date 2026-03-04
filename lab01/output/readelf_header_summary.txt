@@ -1,0 +1,9 @@
+  Class:                             ELF64
+  Data:                              2's complement, little endian
+  Type:                              DYN (Position-Independent Executable file)
+  Machine:                           Advanced Micro Devices X86-64
+  Entry point address:               0x1260
+  Start of program headers:          64 (bytes into file)
+  Start of section headers:          12584 (bytes into file)
+  Number of program headers:         14
+  Number of section headers:         27

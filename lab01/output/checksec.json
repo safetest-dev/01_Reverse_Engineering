@@ -1,0 +1,18 @@
+[
+  {
+    "checks": {
+      "canary": "Canary Found",
+      "cfi": "NO SHSTK & NO IBT",
+      "fortified": "1",
+      "fortify_source": "Yes",
+      "fortifyable": "1",
+      "nx": "NX enabled",
+      "pie": "PIE Enabled",
+      "relro": "Full RELRO",
+      "rpath": "No RPATH",
+      "runpath": "No RUNPATH",
+      "symbols": "No Symbols"
+    },
+    "name": "secure_boot_validator"
+  }
+]

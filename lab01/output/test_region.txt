@@ -1,0 +1,7 @@
+133-    11eb:	48 89 c2             	mov    %rax,%rdx
+134-    11ee:	48 c1 ea 08          	shr    $0x8,%rdx
+135-    11f2:	48 09 d0             	or     %rdx,%rax
+136:    11f5:	84 c0                	test   %al,%al
+137-    11f7:	75 24                	jne    121d <fwrite@plt+0x18d>
+138-    11f9:	48 8d 3d 30 0e 00 00 	lea    0xe30(%rip),%rdi        # 2030 <fwrite@plt+0xfa0>
+139-    1200:	e8 2b fe ff ff       	call   1030 <puts@plt>
