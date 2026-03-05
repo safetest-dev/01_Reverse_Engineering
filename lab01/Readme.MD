@@ -225,7 +225,7 @@ This report and all techniques documented herein were produced **solely for educ
 
 **Michael.A** — SafeTest-Dev | Binary Security Research  
 Report Date: March 2026  
-Classification: Confidential – Authorized Use Only
+Classification: Open/Public
 
 ---
 
