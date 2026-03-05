@@ -15,7 +15,7 @@ This repository contains the full security analysis report for **Lab01: Secure B
 
 | File | Description |
 |------|-------------|
-| `Lab01_SecureBootValidator_Security_Report.docx` | Full professional security report (Word format) |
+| `Lab01_SecureBootValidator_Security_Report.docx` | Full professional security report (Pdf format) |
 
 ---
 
