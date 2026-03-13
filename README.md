@@ -16,30 +16,6 @@ Labs are designed for:
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-01_Reverse_Engineering/
-│
-├── lab01/                        # Secure Boot Validator
-│   ├── secure_boot_validator     # Target binary
-│   ├── output/                   # Analysis artifacts
-│   │   ├── file_metadata.txt
-│   │   ├── checksec.json
-│   │   ├── readelf_header_raw.txt
-│   │   ├── hex_check_before.txt
-│   │   └── hex_check_after.txt
-│   ├── README.md                 # Lab-specific report
-│   └── Lab01_SecureBootValidator_Security_Report.docx
-│
-├── lab02/                        # Coming Soon
-├── lab03/                        # Coming Soon
-│
-└── README.md                     ← You are here
-```
-
----
-
 ## 🧪 Labs Index
 
 | # | Lab | Target | Type | Techniques | Severity |
