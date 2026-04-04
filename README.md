@@ -16,13 +16,14 @@ Labs are designed for:
 
 ---
 
-## 🧪 Labs Index
+## ## 🧪 Labs Index
 
 | # | Lab | Target | Type | Techniques | Severity |
 |---|-----|--------|------|------------|----------|
 | [Lab01](./lab01/) | Secure Boot Validator | ELF 64-bit Linux Binary | Authentication Bypass | Static Disassembly, GDB, Binary Patching | 🔴 Critical |
 | [Lab02](./lab02/) | Encoded Authenticator | ELF 64-bit Linux Binary | Authentication Bypass | Static Disassembly, Radare2, XOR Decoding, Python Solver | 🔴 Critical |
-| [Lab03](./lab03/) | Algorithm Check | ELF 64-bit Linux Binary | Authentication Bypass | Static Dis assembly, GDB, Radare2, XOR Decoding,Binary Patching |🔴 Critical | 
+| [Lab03](./lab03/) | Algorithm Check | ELF 64-bit Linux Binary | Authentication Bypass | Static Disassembly, GDB, Radare2, XOR Decoding, Binary Patching | 🔴 Critical |
+| [Lab04](./lab04/) | Secure Loader v2.1 | PE32+ Windows Binary | Authentication Bypass | Static Disassembly, Radare2, Wine, NOP Injection, Binary Patching | 🔴 Critical |
 
 > New labs are added progressively. Each lab follows the same structured methodology.
 
