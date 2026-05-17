@@ -1,4 +1,4 @@
-# 🟠 Lab06 — Reverse Engineering: DLL Hijacking & Control Flow Manipulation
+# 🟠 Lab06 — Reverse Engineering:Control Flow Manipulation
 
 > **SafeTest-Dev | Reverse Engineering Portfolio**
 > Control flow manipulation and string patching on a real-world PE32+ Windows installer — Notepad++ v8.9.3.
